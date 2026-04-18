@@ -56,7 +56,7 @@ while True:
 
     if menu_principal == "1":
         
-        print("\n[ PASSO 1: DADOS PESSOAIS ]")
+        print("\n -PASSO 1: DADOS PESSOAIS-")
         nome = input("Nome Completo: ")
         idade = int(input("Idade: "))
         sexo = input("Sexo (M/F): ").upper()
@@ -66,7 +66,7 @@ while True:
             "IMC": "Não avaliado", "Saúde Mental": "Não avaliado", "Ciclo": "Não avaliado"
         }
 
-        print(f"\n[ PASSO 2: EXAMES PARA {nome.upper()} ]")
+        print(f"\n -PASSO 2: EXAMES PARA {nome.upper()} -")
         print("1 - Calcular IMC")
         print("2 - Avaliação de Saúde Mental")
         
