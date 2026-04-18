@@ -59,7 +59,21 @@ Armazena as fichas cadastradas e exibe um relatório geral detalhado.
 
 ---
 
-## Estrutura do projeto
+## Objetivo do Projeto: 
+Este projeto foi desenvolvido com fins acadêmicos para praticar conceitos fundamentais de programação em Python, como:
+
+funções
+estruturas condicionais
+listas e dicionários
+menus interativos
+manipulação de datas com datetime
+
+## Melhorias Futuras: 
+salvar dados em arquivos
+busca de pacientes por nome
+exclusão e edição de fichas
+interface gráfica
+integração com banco de dados
 
 ```bash
 sistema-medico-python/
