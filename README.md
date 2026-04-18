@@ -1,4 +1,4 @@
-# Sistema Médico em Python
+# Mini Sistema Médico em Python
 
 ## Descrição
 
