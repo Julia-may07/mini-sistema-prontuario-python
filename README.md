@@ -8,7 +8,7 @@ O programa permite registrar informações pessoais do paciente e realizar anál
 
 - cálculo do IMC
 - avaliação de saúde mental
-- registro do ciclo menstrual
+- registro do ciclo menstrual (se o usuário for do sexo feminino) 
 - armazenamento das fichas em uma biblioteca médica
 
 Todos os dados são armazenados em memória durante a execução do programa.
@@ -36,7 +36,7 @@ Analisa:
 - rotina do paciente
 - humor atual
 
-Com base nas respostas, o sistema gera observações de melhoria.
+Com base nas respostas, o sistema gera observações de melhoria baseadas na informação das horas de sono.
 
 ### Registro de ciclo menstrual
 Disponível para pacientes do sexo feminino:
